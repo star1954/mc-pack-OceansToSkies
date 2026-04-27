@@ -84,6 +84,9 @@
   "corpse": {
     "corpse": true
   },
+  "balm": {
+    "jade": true
+  },
   "apothic_enchanting": {
     "ench": true
   },
