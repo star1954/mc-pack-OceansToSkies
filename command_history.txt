@@ -1,0 +1,50 @@
+/tp @s 172 85 -273
+/locate structure #minecraft:village
+/tp @s 144 ~ -208
+/tp @s -2420 85 4495
+/locate structure #minecraft:village
+/gamemode survival
+/effect give star1954 minecraft:saturation
+/effect give star1954 minecraft:saturation 100
+/sable assemble connected
+/gamerule keepInventory true
+/spawnpoint
+/spawnpoint star1954 20481033 128 20481047
+/spawnpoint star1954 20481033 130 20481047
+/kill
+/clear
+/sk deactivate _all
+/sk add Explorer
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/viaromana stats
+/viaromana stats get
+/viaromana stats get star1954
+/viaromana stats get star1954 distance_walked
+/gamemode creative
+/gamemode survival
+/reload
+/experience add star1954 10 levels
+/sparkclient profiler start
+/spark profiler open
+/sparkc profiler open
+/sparkc profiler stop
+/effect give star1954 minecraft:saturation 100
+/data get entity @e[limit=1, distance=0..10]
+/data get entity @e[limit=1, distance=0..10, type=item]
+/spark profiler start
+/spark profiler stop
+/time set day
+/sparkc profiler stop
+/sparkc profiler start
+/sparkc profiler stop
+/sparkc profiler start
+/sparkc profiler stop
+/vre
+/vre craftinggrid
+/vre maingui
+/reload
+/vre maingui
+/reload

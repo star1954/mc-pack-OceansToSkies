@@ -1,0 +1,62 @@
+# Minecraft Modpack .gitignore
+
+# Logs
+logs/
+*.log
+debug/
+
+# Crash reports
+crash-reports/
+
+# Minecraft directories
+world/
+world_nether/
+world_the_end/
+saves/
+server-icon.png
+session.lock
+
+# Launcher/Config files
+launcher_profiles.json
+launcher_settings.json
+downloads/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Runtime files
+.mixin.out/
+dynamic-resource-pack-cache/
+local/
+patchouli_books/
+data/
+
+
+#Player data
+xaero/
+XaeroWaypoints_BACKUP*
+screenshots/
+schematics/
+notepad/
+ponders_watched.json
+usercache.json
+usernamecache.json
+patchouli_data.json
+
+# Dependencies (mods are usually tracked)
+# Uncomment if needed:
+# mods/
+# modpacks/

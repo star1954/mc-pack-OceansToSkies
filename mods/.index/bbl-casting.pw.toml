@@ -1,0 +1,17 @@
+filename = 'casting-1.21.1-2.3.10.jar'
+name = 'BBL Casting'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-2.3.10'
+
+[download]
+hash = '00327535a833a917e215b62ff96aa87a9e09f2fb4db4414477c7519c16ea569852379a37b171a87a87cfac6c4994cc8c1bda50f3a6e5ed9f9bc5e075db46d635'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YadXQ97f/versions/DROyDGIY/casting-1.21.1-2.3.10.jar'
+
+[update.modrinth]
+mod-id = 'YadXQ97f'
+version = 'DROyDGIY'

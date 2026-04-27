@@ -1,0 +1,54 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "star1954",
+      "uniqueId": "b2e8d652-33ff-48e2-bc35-7e34a4c2bebf"
+    },
+    "time": 1777266436599,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/vLUhNq4He7"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "star1954",
+      "uniqueId": "b2e8d652-33ff-48e2-bc35-7e34a4c2bebf"
+    },
+    "time": 1777266129316,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/VKRt0nYZgy"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "star1954",
+      "uniqueId": "b2e8d652-33ff-48e2-bc35-7e34a4c2bebf"
+    },
+    "time": 1777263357207,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/gnjZo84EFL"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "star1954",
+      "uniqueId": "b2e8d652-33ff-48e2-bc35-7e34a4c2bebf"
+    },
+    "time": 1777263293326,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/LTZoPPRxu0"
+    }
+  }
+]

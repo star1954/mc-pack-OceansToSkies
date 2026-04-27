@@ -1,0 +1,17 @@
+filename = 'simple-datapacks-2.7-beta.4-neoforge+1.21.jar'
+name = 'Simple Datapacks'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1', '1.21.1 rc1', '1.21.1-rc1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '2.7-beta.4'
+
+[download]
+hash = '19b0c03575cf547aa4299a509bf6bcf2339d7d4b7a1cf248d020a5ef10925abc96c43bf020819a8623b37375aa597da53654ba3ad883e435d0732b03f01738a0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Re6xQ62Z/versions/UfebqpMB/simple-datapacks-2.7-beta.4-neoforge%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'Re6xQ62Z'
+version = 'UfebqpMB'

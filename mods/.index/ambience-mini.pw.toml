@@ -1,0 +1,17 @@
+filename = 'AmbienceMini-1.21.1-2.5.1.jar'
+name = 'Ambience Mini'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.5.1'
+
+[download]
+hash = 'dfb72d54e8d0c66653674a9cd8234fb3531048a94bee62697b1f9001dc44c23c5a16b26756058016ae82463effca834c499ea4e38ef69c5d7168227e6c696b0b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TsW1jKuo/versions/fSfQBDQR/AmbienceMini-1.21.1-2.5.1.jar'
+
+[update.modrinth]
+mod-id = 'TsW1jKuo'
+version = 'fSfQBDQR'
