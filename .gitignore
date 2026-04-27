@@ -55,6 +55,8 @@ ponders_watched.json
 usercache.json
 usernamecache.json
 patchouli_data.json
+command_history.txt
+options.txt
 
 # Dependencies (mods are usually tracked)
 # Uncomment if needed:
