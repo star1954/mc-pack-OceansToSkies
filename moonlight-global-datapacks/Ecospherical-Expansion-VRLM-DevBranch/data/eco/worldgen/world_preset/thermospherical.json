@@ -205040,10 +205040,10 @@
       }
     },
     "minecraft:the_nether": {
-      "type": "eco:the_open_nether",
+      "type": "minecraft:the_nether",
       "generator": {
         "type": "minecraft:noise",
-        "settings": "eco:thermospherical_nether",
+        "settings": "minecraft:nether",
         "biome_source": {
           "type": "minecraft:multi_noise",
           "preset": "minecraft:nether"
