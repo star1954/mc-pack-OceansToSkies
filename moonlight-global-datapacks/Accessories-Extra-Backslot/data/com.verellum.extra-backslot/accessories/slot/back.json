@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "amount": 1,
+  "operation": "add",
+  "order": 800,
+  "icon": "com.verellum.extra-backslot:gui/slot/back.png",
+  "validators": [
+    "accessories:tag",
+    "accessories:component",
+    "accessories:attribute",
+    "accessories:elytra_item",
+    "accessories:banner_item"
+  ]
+}
