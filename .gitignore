@@ -57,6 +57,7 @@ usernamecache.json
 patchouli_data.json
 command_history.txt
 options.txt
+backups/
 
 # Dependencies (mods are usually tracked)
 # Uncomment if needed:
