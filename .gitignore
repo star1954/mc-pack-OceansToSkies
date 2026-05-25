@@ -49,7 +49,7 @@ patchouli_books/
 xaero/
 XaeroWaypoints_BACKUP*
 screenshots/
-schematics/
+/schematics/
 notepad/
 ponders_watched.json
 usercache.json
